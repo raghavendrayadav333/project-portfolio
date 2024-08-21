@@ -12,8 +12,6 @@ This is a personal portfolio website showcasing Raghavendra's work, skills, and 
 
 - **HTML**: For structuring the web pages.
 - **CSS**: For styling and layout.
-- **JavaScript**: For interactive features, including the Typed.js library for dynamic text.
-- **Firebase**: For backend services and dynamic content (if applicable).
 
 ## Features
 
