@@ -6,7 +6,7 @@ Here’s a revised version of the README for your portfolio project:
 
 ## Project Overview
 
-This is a personal portfolio website showcasing Raghavendra's work, skills, and contact information. The site features a sleek, modern design with a dark theme and vibrant accents. Key sections include an introduction, skills overview, social media links, project showcases, and contact details. The website is built using HTML, CSS, and JavaScript, leveraging Firebase for dynamic content and Typed.js for interactive text animations.
+This is a personal portfolio website showcasing Raghavendra's work, skills, and contact information. The site features a sleek, modern design with a dark theme and vibrant accents. Key sections include an introduction, skills overview, social media links, project showcases, and contact details. The website is built using HTML, CSS, and JavaScript and Typed.js for interactive text animations.
 
 ## Technologies Used
 
